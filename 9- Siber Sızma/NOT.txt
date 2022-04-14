@@ -1,0 +1,5 @@
+Bu uygulamalar 
+~ Kali-Linux
+~ Tom-Cat
+~ Kioptrix
+yazılımlarıyla yapılmıştır.
